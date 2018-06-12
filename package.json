@@ -1,0 +1,25 @@
+{
+  "name": "censor-words",
+  "version": "1.0.0",
+  "description": "Filter weird / sensitive words",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tienpham94/censor-words.git"
+  },
+  "keywords": [
+    "filter",
+    "filtering",
+    "sensitive",
+    "words"
+  ],
+  "author": "Tien Pham (https://tienp.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tienpham94/censor-words/issues"
+  },
+  "homepage": "https://github.com/tienpham94/censor-words#readme"
+}
